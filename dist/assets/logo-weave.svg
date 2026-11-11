@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- A continuous thread curls into an @ around a woven grid, from the founder's sketch. -->
+  <g stroke="#284c3d" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M42 20C38 25 41 32 41 39L41 65C41 74 45 77 54 77H67C79 77 86 72 89 61C95 41 91 22 80 14C68 5 47 4 32 9C16 14 8 29 6 47C3 66 10 83 26 91C37 97 52 96 65 96C69 96 72 94 74 92"/>
+    <path d="M59 20C59 35 61 49 59 68"/>
+    <path d="M27 36C41 35 58 36 74 36M27 53C42 52 58 53 75 53"/>
+  </g>
+</svg>

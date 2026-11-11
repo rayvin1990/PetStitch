@@ -10,5 +10,5 @@
 @media(max-width:1050px){.hoop-illustration{width:136px;height:118px}.intro-note{padding-right:0}.intro-note p{font-size:13px!important}}
 @media(max-width:620px){.craft-eyebrow{font-size:8px;letter-spacing:1.05px;gap:6px;line-height:1.6}.craft-eyebrow .craft-icon{width:18px;height:18px}.intro{margin-bottom:20px}.intro-note{display:none}.sample-link .craft-icon{width:16px;height:16px}.footer-paw .craft-icon{width:20px;height:20px}}
 
-/* Yarn-ball wordmark and matching favicon. */
-.brand-yarn{display:block;object-fit:contain;flex-shrink:0}.brand .brand-yarn{width:36px;height:36px}.footer-brand .brand-yarn{width:22px;height:22px}.footer-brand{gap:6px}@media(max-width:620px){.brand .brand-yarn{width:31px;height:31px}.footer-brand .brand-yarn{width:20px;height:20px}}
+/* Woven @ wordmark, based on the founder sketch, and matching favicon. */
+.brand-symbol{display:block;object-fit:contain;flex-shrink:0}.brand .brand-symbol{width:36px;height:36px}.footer-brand .brand-symbol{width:22px;height:22px}.footer-brand{gap:6px}@media(max-width:620px){.brand .brand-symbol{width:31px;height:31px}.footer-brand .brand-symbol{width:20px;height:20px}}
