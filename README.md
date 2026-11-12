@@ -1,4 +1,4 @@
-# PetStitch（它秀）pet cross-stitch MVP
+# Pet2Stitch（它秀）pet cross-stitch MVP
 
 Private preview: https://threadform-stitch-prototype.inventivecod4.chatgpt.site
 
