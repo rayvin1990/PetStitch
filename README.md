@@ -16,7 +16,7 @@ Create a printable pattern of the user's own cat or dog. Upload JPG/PNG/WebP (20
 - Explicit blank fabric is represented by -1. White thread remains a real color. Stitch totals exclude blanks and match the thread key and PDF chart.
 - Preview the cropped source photo, digital stitch simulation, and symbol chart; vector PDF includes cover, thread key, actual stitch counts, blank-square instructions and numbered tiled charts on US Letter.
 
-Prototype PDF downloads are free and direct, without a simulated checkout or email gate. The download area states the planned $4.99/pattern price and explicitly says no payment is collected. No money, card details or uploaded photos are sent to a server. There are no accounts, analytics, storage or payment integrations. Only the static assets and external interface fonts are fetched.
+Prototype PDF downloads are free and direct, without a simulated checkout or email gate. The download area states the planned $4.99/pattern price and explicitly says no payment is collected. No money, card details or uploaded photos are sent to a server. There are no accounts, storage or payment integrations. GA4 collects page views and usage events; uploaded photos and filenames are not sent to analytics. Static assets and Google analytics resources are fetched.
 
 ## Minimal-flow update, 2026-11-11
 

@@ -1,7 +1,16 @@
 # Search and analytics setup
 
-2026-11-16: Public homepage verified at https://www.pet2stitch.com/. Canonical URL, robots.txt and single-page sitemap added.
+Canonical site: https://www.pet2stitch.com/
 
-Pending: Google Search Console Domain property pet2stitch.com with DNS TXT verification; submit https://www.pet2stitch.com/sitemap.xml. GA4 property/web stream and measurement ID not yet provided; no analytics tag installed or live events verified. Browser automation profile is not signed into Google.
+Google Search Console Domain resource pet2stitch.com is visible in the user's screenshot. Sitemap submission and indexing are not yet confirmed. Submit https://www.pet2stitch.com/sitemap.xml.
 
-Measure user photo preview and PDF export separately from example usage when GA4 is connected. Downloads are free prototype usage, not purchases. Do not send uploaded filenames or image data to analytics.
+GA4 measurement ID: G-YZQ5DVKZQ4, provided by user. Correct gtag/js loader and config installed; Google Signals and ad personalization signals disabled. A standard page_view is sent on configuration.
+
+Custom events (production custom domain only):
+- photo_preview: successful initial preview of a user-selected photo.
+- example_preview: user deliberately opens a sample; automatic hero rendering is excluded.
+- pdf_download: PDF generated and browser download triggered; source_type distinguishes user_photo from example. This is not proof the file was saved and is not a purchase.
+
+Custom event payload contains only source_type; no filenames, photos or image data. GA4 also collects its standard browser/page metadata. Repeated size/color edits do not count as new initial photo previews. Analytics blocking must not prevent use of the tool.
+
+Live collection verification and the user's GA4 Realtime confirmation are pending. Google account remains signed out in the automation profile.
