@@ -13,4 +13,4 @@ Custom events (production custom domain only):
 
 Custom event payload contains only source_type; no filenames, photos or image data. GA4 also collects its standard browser/page metadata. Repeated size/color edits do not count as new initial photo previews. Analytics blocking must not prevent use of the tool.
 
-Live collection verification and the user's GA4 Realtime confirmation are pending. Google account remains signed out in the automation profile.
+Live verification on 2026-11-16: gtag script returned 200; page_view and a subsequent batched event collection request returned 204. Browser dataLayer confirmed example_preview/example PDF and photo_preview/user_photo PDF events, using a local sample dog file as the uploaded test photo. These are synthetic QA activity, not customer demand. The user's GA4 Realtime confirmation is pending. Google account remains signed out in the automation profile.
